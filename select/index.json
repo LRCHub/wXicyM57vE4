@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "SOULSOUP",
+  "base_artist": "OFFICIAL HIGE DANDISM",
+  "createdAt": "2026-02-28T06:31:02.590555Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Soulsoup",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/01_Soulsoup_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SOULSOUP",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/02_SOULSOUP_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SOULSOUP",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": false,
+      "path": "select/03_SOULSOUP_OFFICIAL_HIGE_DANDISM.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "soulsoup",
+      "artist": "official hige dandism",
+      "has_synced": true,
+      "path": "select/04_soulsoup_official_hige_dandism.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SOULSOUP",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/05_SOULSOUP_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SOULSOUP",
+      "artist": "Official HIGE DANdism",
+      "has_synced": false,
+      "path": "select/06_SOULSOUP_Official_HIGE_DANdism.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SOULSOUP",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_SOULSOUP_Official髭男dism.txt"
+    }
+  ]
+}
